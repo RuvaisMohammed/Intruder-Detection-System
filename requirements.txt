@@ -1,6 +1,6 @@
-dlib
-cmake
-face_recognition
-opencv
-numpy
+pip install dlib
+pip install cmake
+pip install face_recognition
+pip install opencv-python
+pip install numpy
 visual studio -> c++-> download manuel on the web browser
