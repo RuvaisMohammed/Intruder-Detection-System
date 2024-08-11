@@ -1,0 +1,6 @@
+dlib
+cmake
+face_recognition
+opencv
+numpy
+visual studio -> c++-> download manuel on the web browser
